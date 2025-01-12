@@ -4,70 +4,70 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
-  - Module
-  - Library
+  - Module k
+  - Library u
   - Package
   - Component
-  - Framework
-  - Platform
+  - Framework h
+  - Platform h
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap k
+  - Function u
+  - Procedure h
+  - Method u
+  - Class u
+  - Prototype h
+  - Event h
+  - Type u
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
-  - Interface
-  - Namespaces
+  - Interface h
+  - Namespaces u
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case u
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
