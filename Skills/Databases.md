@@ -31,11 +31,11 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
-- SQL
+- SQL h
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -74,7 +74,7 @@
   - Oracle
   - MySQL
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server h
   - Redis
   - Rabbit
   - MongoDB
