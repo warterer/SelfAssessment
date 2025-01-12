@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API h
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL

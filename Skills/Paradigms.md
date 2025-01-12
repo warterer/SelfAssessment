@@ -28,20 +28,20 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
+  - Operator `new` h
   - Static method
-  - Method
+  - Method h
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields h
+  - Private fields h
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Inheritance k
+  - Parent class k
+  - Polymorphism h
+  - Abstract class h
+  - Interface h
+  - Encapsulation k
   - Hidden class
   - Object form
   - Instance
@@ -64,7 +64,7 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton h
   - Factory Method
   - Abstract Factory
   - Adapter
