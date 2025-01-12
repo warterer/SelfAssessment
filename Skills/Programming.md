@@ -10,7 +10,7 @@
   - Abstraction
   - Paradigm
   - Programm u
-  - Programming paradigm
+  - Programming paradigm h
   - Programming language u
   - Contract
   - Module k
@@ -39,7 +39,7 @@
   - Scalar u
   - Literal u
   - Expression u
-  - Heap k
+  - Heap h
   - Function u
   - Procedure h
   - Method u
@@ -53,15 +53,15 @@
   - Conditions u
   - Loops u
   - Assignment u
-  - Regular expression
+  - Regular expression k
   - Interface h
   - Namespaces u
   - Call stack
   - Naming conventions k
   - Coding conventions k
   - Camel case u
-  - Snake case
-  - Kebab case
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion u
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -122,13 +122,13 @@
   - Stack h
   - Deque
   - Tree
-  - Graph
+  - Graph h
   - Iterator u
   - Mutable state
   - Immutable state
   - Serialization h
   - String parsing
-  - JSON h
+  - JSON u
   - JSON5
   - YAML
 - Networking
@@ -213,7 +213,7 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
+  - File system h
   - Linux
   - Unix
   - BSD
